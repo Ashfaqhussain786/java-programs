@@ -16,7 +16,7 @@ public class Tasks19 {
 		System.out.println(" What Is Your Name? ");
 		ans = sc.nextLine();
 		System.out.println("\n");
-		System.out.println(ans + " Nice to meet you Ashfaq.. ");
+		System.out.println(ans + " : Nice to meet you Ashfaq.. ");
 		System.out.println("\n");
 		System.out.println(" How Can i help You? ");
 		ans = sc.nextLine();
